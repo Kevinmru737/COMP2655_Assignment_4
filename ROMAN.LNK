@@ -1,0 +1,4 @@
+input d:\A4\roman.bin
+input d:\A4\roman_io.bin
+output d:\A4\roman.tos
+xdebug
